@@ -14,20 +14,22 @@ Date: 07/01/23
 
 - build was quite easy, just followed the docs 
         - https://kit.svelte.dev/docs/creating-a-project
-    - changes the main page html, but missing a style
+    - changed the main page html, but missing a style atm (another future task)
     - started looking at CI/CD using Github Actions
-        - first need to build to static using an [adapter-static]
+        - first needed to build to static using an [adapter-static]
 (https://www.npmjs.com/package/@sveltejs/adapter-static)
         - Svelte also has an [adapter-auto](https://www.npmjs.com/package/@sveltejs/adapter-auto)
             - added setup by following the module docs
-            - getting an error about not all routes being prerendered
+            - getting an error about not all routes being prerendered (clue for the failed deployment)
     - added a Github Action to build and deploy the site
         - currently not showing anything
             - probably relate to the above
             - also there's no index.html in the /out folder
-            ![](/assets/images/2023-01-07-17-49-23.png)
 
-### **Thoughts:**: 
+### **Challenges**:
+- CI/CD deployment is currently giving a 404, but ran out of time for today
+
+### **Thoughts**: 
 
 - Cloudflare Pages deployment works by default, worth a try
 - SvelteKit seems really nice 
