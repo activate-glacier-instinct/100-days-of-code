@@ -1,9 +1,8 @@
-
-## Day 13/100
+## Day 14/100
 
 ---
 
-Date: 19/01/23
+Date: 20/01/23
 
 ---
 
@@ -13,13 +12,16 @@ Make a simple portfolio + blog site using SvelteKit for my anon account
 
 ### **Today's Progress**: 
 
-- Adds `vite-markdown-preprocessor` and configuration
-- Adds functionality on `/blog/[slug]` for rendering the files from the data git submodules
-- Fix: removed a lot of redundant code
-- CI: fixed the CI 
+- Content: fixes file naming convention
+- Styling day!!!
+- Updates layouts 
+- Fixes overflow
+- Adds more global styles to improve reusability
+- Removed a lot of component styles to reuse global classes
 
 ### **Thoughts**: 
-- Looks terrible, but I can defo start styling again tomorrow
+- /blog/[slug] still need a bit of love, but I needed to fix the layouts first
+- Add a consistent layout to all notes use day13 as the template
 
 ### **Next**:
 - Style `/blog/[slug]`
