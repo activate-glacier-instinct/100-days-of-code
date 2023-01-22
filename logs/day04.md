@@ -1,14 +1,14 @@
-# 100 Days Of Code - Log
+## Day 4/100
 
-================
-
-## Day 4
+---
 
 Date: 10/01/23
 
-================
+---
 
-> Goal: make a simple portfolio + blog site using SvelteKit for my anon account
+### Goal:
+
+Make a simple portfolio + blog site using SvelteKit for my anon account
 
 ### **Today's Progress**: 
 

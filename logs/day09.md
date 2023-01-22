@@ -1,11 +1,15 @@
 
-## Day 9
+## Day 9/100
+
+---
 
 Date: 15/01/23
 
-================
+---
 
-> Goal: make a simple portfolio + blog site using SvelteKit for my anon account
+### Goal:
+
+Make a simple portfolio + blog site using SvelteKit for my anon account
 
 ### **Today's Progress**: 
 
