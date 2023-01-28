@@ -15,7 +15,7 @@ Build a full whitelist dApp in Foundry - LW3 Sophomore track
 - Setup Foundry on my machine
 - Attempted a simple foundry hello-world example, and encountered a lot of issues
 - Foundry: Raised a bug about `foundry init` circular dependencies - https://github.com/foundry-rs/foundry/issues/4214
-- Foundry: Raised a feature request to allow for project creation on systems that don't have git credentials configured globally - https://github.com/foundry-rs/foundry/issues/4214
+- Foundry: Raised a feature request to allow for project creation on systems that don't have git credentials configured globally - https://github.com/foundry-rs/foundry/issues/4215
 
 ### **Thoughts**: 
 
