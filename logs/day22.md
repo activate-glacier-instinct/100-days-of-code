@@ -25,6 +25,4 @@ Build a full whitelist dApp in Foundry - LW3 Sophomore track
 - Not a good look when I can't even install the `hello-world` sample
 
 ### **Link to work:** 
-- [Portfolio - Repo](https://github.com/activate-glacier-instinct/activate-glacier-instinct.github.io)
-- [Portfolio - Deployment](https://activate-glacier-instinct.github.io/)
-- [Portfolio - Design Moodboard](https://www.figma.com/file/EACX3PwCLrEc2q3oHRtxU4/Portfolio---Moodboard?node-id=0%3A1)
+- [Portfolio](https://activate-glacier-instinct.github.io/)
