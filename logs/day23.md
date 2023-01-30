@@ -21,7 +21,8 @@ Build a full whitelist dApp in Foundry - LW3 Sophomore track
 
 ### **Thoughts**: 
 
--
+- The port from hardhat seems really easy, but I will need to consider tests a bit more
+
 
 ### **Link to work:** 
 - [Project Repo](https://github.com/activate-glacier-instinct/foundry-whitelist-dapp--lw3)
