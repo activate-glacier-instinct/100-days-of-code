@@ -20,7 +20,7 @@ Build a full NFT collection smart contract in Foundry - LW3 Sophomore track
 ## **Thoughts**: 
 
 - Surprised at just how early I am vs the roadmap, so I'm going to finish the FlipsideCrypto dashboard for the next few days
-- Admin: made [plan.md](../plan.md) be the current tracker of the challenge, whilst [roadmap.md](../roadmap.md) is the future looking document.
+- Admin: made `plan.md` be the current tracker of the challenge, whilst `roadmap.md` is the future looking document.
 
 ### **Next**: 
 
