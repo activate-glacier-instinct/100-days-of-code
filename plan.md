@@ -1,6 +1,6 @@
 # 100 Days Of Code - Plan
 
-Updated version of the [roadmap](./roadmap.md) showing changes and updated timelines
+> Updated version of the `roadmap.map` showing a mix of progress and roadmap
 
 ## Cancelled:
 

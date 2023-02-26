@@ -1,5 +1,6 @@
 # 100 Days Of Code - Plan
 
+> Defines my future plan at the beginning of the challenge
 
 ## Plan:
 
