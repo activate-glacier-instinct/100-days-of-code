@@ -1,27 +1,29 @@
 # 100 Days Of Code - Plan
 
+Updated version of the [roadmap](./roadmap.md) showing changes and updated timelines
+
+## Cancelled:
+
+10-20
+- make a Dune Analytics dashboard on BANK token [cancelled]
 
 ## Plan:
 
-1-9: 
+1-21: 
 - make a simple portfolio + blog site using SvelteKit for my anon account
 
-10-20
-- make a Dune Analytics dashboard on BANK token
-
-21-29
+22-29
 - LW3 - Sophomore track
     - Build a full whitelist dApp [in Foundry]
 
-30-40
+30-39
 - LW3 - Sophomore track
     - Build a full NFT collection [in Foundry]
 
-41-51 
-- LW3 - Sophomore track
-    - Build a full NFT collection [in Foundry]
+36, 40-49
+- make a FlipsideCrypto dashboard on an NFT collection 
 
-52-61
+50-61
 - Reproduce an L2Beat metrics chart on my own site using a custom charting library (D3 or lighter) and Alchemy
 
 62-72

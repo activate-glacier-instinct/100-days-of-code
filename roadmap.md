@@ -1,18 +1,15 @@
 # 100 Days Of Code - Plan
 
-Updated version of the Plan showing changes and updated timelines
-
-## Cancelled:
-
-10-20
-- make a Dune Analytics dashboard on BANK token [cancelled]
 
 ## Plan:
 
-1-21: 
+1-9: 
 - make a simple portfolio + blog site using SvelteKit for my anon account
 
-22-29
+10-20
+- make a Dune Analytics dashboard on BANK token
+
+21-29
 - LW3 - Sophomore track
     - Build a full whitelist dApp [in Foundry]
 
