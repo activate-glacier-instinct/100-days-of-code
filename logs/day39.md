@@ -17,7 +17,7 @@ Build a full NFT collection smart contract in Foundry - LW3 Sophomore track
 - Reployed the dApp
 - Minted the NFT and passed the lesson on LW3
 
-## **Thoughts**: 
+### **Thoughts**: 
 
 - Surprised at just how early I am vs the roadmap, so I'm going to finish the FlipsideCrypto dashboard for the next few days
 - Admin: made `plan.md` be the current tracker of the challenge, whilst `roadmap.md` is the future looking document.
